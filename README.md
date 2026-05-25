@@ -1,9 +1,18 @@
 <div align="center">
-  <img src=https://avatars.githubusercontent.com/u/173706435?v=4" style="width:128px;">
+  <img src="https://avatars.githubusercontent.com/u/173706435?v=4" width="100" style="border-radius: 50%;">
+	
+
+  # Aktywnyyy
+
+  Just a programmer with way too much free time.
 </div>
 
-# Welcome in my GitHub Page
+### 🛠️ Languages & Tools
+* **Languages:** mainly Zig
+* **Hardware:**  learning KiCad (PCB Design)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kkropelka&theme=dark&border_radius=3.1&locale=pl&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=0A00FFDC&multiline=true&width=435&lines=programming+in%3A+C%2C+Zig%2C+Rust%2C+JS)](https://git.io/typing-svg)
+### 📋 Current Status
+* 🎧 **Listening to:** Absolutely nothing (I know nothing about music).
+* 💻 **Daily Driving:** <img src="https://img.shields.io/badge/arch%20linux-%231793D1.svg?&style=for-the-badge&logo=arch%20linux&logoColor=white" height="20" valign="middle" /> — *switching to Chimera Linux soon.*
